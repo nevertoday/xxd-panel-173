@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 173"
+  short_description: "Ivory Paper-text Miniature Landscape"
+  default_prompt: "Use $xxd-panel-173 to transform my photograph following the complete canonical source brief."
