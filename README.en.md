@@ -10,7 +10,7 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-This compute-saving batch packages the Skill without calling an image model or generating sample artwork. Source integrity, links and runtime helpers are checked; visual generation quality remains untested. The usage examples below are commands, not generated works.
+This batch includes one generated sample that passed the basic geometry and thumbnail checks (`assets/examples/sample-03.png`); the other regenerated candidates remain outside the published examples pending review. Source integrity, links and runtime helpers are checked.
 
 ## Best-fit situations and problems solved
 
