@@ -10,7 +10,7 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-This batch includes one generated sample that passed the basic geometry and thumbnail checks (`assets/examples/sample-03.png`); the other regenerated candidates remain outside the published examples pending review. Source integrity, links and runtime helpers are checked.
+This batch includes 8 generated sample works in `assets/examples/`, each based on its own source image and delivery mode. Source integrity, links and runtime helpers are checked.
 
 ## Best-fit situations and problems solved
 
